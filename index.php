@@ -32,7 +32,7 @@
                         <a class="nav-link" href="#feedbacks">Feedbacks</a>
                     </li>
                 </ul>
-                <a href="login.html" class="btn btn-warning">Entrar</a>
+                <a href="html/login.html" class="btn btn-warning">Entrar</a>
             </div>
         </div>
     </nav>
